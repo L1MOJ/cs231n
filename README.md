@@ -1,5 +1,3 @@
-# cs231n
-
 
 # Assignment1
 
